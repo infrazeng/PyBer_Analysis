@@ -1,6 +1,6 @@
-# PyBer_Analysis
+# PyBer Analysis
 
-## Overview of the analysis
+## Overview
 
 The purpose of this project is to create a line graph that shows the fares by type of city. Using the data from the csv files, I was able to sort it according to 3 types of cities: urban, suburban, and rural. From that, I found the total rides in each type of city, the number of drivers, the total fares, average fare per ride, and the average ride per driver.
 
