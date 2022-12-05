@@ -8,11 +8,11 @@ The purpose of this project is to create a line graph that shows the fares by ty
 
 The results indicate that the fares are much higher in rural cities than they are in suburban or urban cities. However, that I likely due to the fact that there are fewer drivers in rural cities. Rural cities are also much more spread out so drivers end up driving further on average. That would explain why the average fare per driver in rural cities is about 4 times higher than that of urban cities.
 
-![](pyber_summary.png)
+![](images/pyber_summary.png)
 
 Additionally, with the multiple-line char, we can see that the total fares during the year are different for each type of city. Fares spike slightly during late February all across the board. Meanwhile, in late April, suburban fares spike while urban and rural fares decrease.
 
-![](fare_by_city.png)
+![](images/fare_by_city.png)
 
 ## Summary
 
